@@ -1,0 +1,81 @@
+= Infrastructure en tant que Service (IaaS) :
+:customcss: style.css
+
+
+[.blue.background]
+== Avantages
+
+[.blue.background]
+=== Évolutivité 
+
+Les ressources peuvent être facilement ajustées en fonction des besoins.
+
+[.blue.background]
+=== Contrôle 
+
+Les utilisateurs ont un contrôle plus granulaire sur l'infrastructure sous-jacente.
+
+[.blue.background]
+=== Flexibilité 
+
+Les utilisateurs peuvent choisir parmi une variété de configurations matérielles et logicielles.
+
+[.blue.background]
+== Inconvénients
+
+[.blue.background]
+=== Responsabilité 
+
+Les utilisateurs sont responsables de la gestion et de la maintenance de l'infrastructure.
+
+[.blue.background]
+=== Complexité 
+
+Configurer et gérer une infrastructure peut être complexe pour les utilisateurs non techniques.
+
+[.blue.background]
+=== Coûts variables 
+
+Les coûts peuvent varier en fonction de l'utilisation des ressources.
+Plateforme en tant que Service (PaaS) :
+
+[.blue.background]
+== Avantages:
+
+[.blue.background]
+=== Productivité accrue 
+
+Les développeurs peuvent se concentrer sur le développement d'applications sans se soucier de l'infrastructure sous-jacente.
+
+[.blue.background]
+=== Facilité de déploiement 
+
+Les applications peuvent être déployées rapidement sans se soucier de la configuration de l'infrastructure.
+
+[.blue.background]
+=== Évolutivité 
+
+Les plateformes PaaS offrent souvent des fonctionnalités d'évolutivité automatique.
+
+[.blue.background]
+== Inconvénients
+
+[.blue.background]
+=== Verrouillage du fournisseur 
+
+Les applications peuvent être étroitement liées à la plateforme spécifique du fournisseur.
+
+[.blue.background]
+=== Limitations technologiques 
+
+Les plateformes PaaS peuvent imposer des restrictions sur les technologies et les langages de programmation pris en charge.
+
+[.blue.background]
+=== Dépendance à l'égard du fournisseur 
+
+Les utilisateurs sont dépendants du fournisseur pour la disponibilité et la fiabilité du service.
+
+
+
+
+

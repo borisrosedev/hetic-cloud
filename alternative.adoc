@@ -1,0 +1,68 @@
+= Les alternatives à Firebase
+
+[.blue.background]
+== AWS Amplify :
+
+Proposé par Amazon Web Services (AWS), AWS Amplify offre une gamme de services pour le développement d'applications mobiles et web, y compris:
+[%step]
+* l'authentification
+* la base de données
+* les fonctions sans serveur
+* le stockage de fichiers, 
+* etc.
+
+
+[.blue.background]
+== Google Cloud Platform (GCP) :
+
+Google Cloud Platform offre divers services pour le développement d'applications, y compris:
+[%step]
+* Google Cloud Firestore pour les bases de données NoSQL
+* Google Cloud Storage pour le stockage de fichiers
+* Google Cloud Functions pour le déploiement de fonctions sans serveur
+* etc.
+
+[.blue.background]
+== Microsoft Azure :
+
+Microsoft Azure propose une gamme de services similaires à Firebase, y compris 
+[%step]
+* Azure App Service pour l'hébergement d'applications web et mobiles
+* Azure Cosmos DB pour les bases de données NoSQL, 
+* Azure Functions pour les fonctions sans serveur, 
+* etc.
+
+
+[.blue.background]
+== Back4App :
+
+Back4App est une plateforme BaaS open-source basée sur Parse Server, offrant des fonctionnalités similaires à Firebase telles que:
+[%step]
+* l'authentification
+* les bases de données en temps réel
+* le stockage de fichiers
+* et d'autres services back-end.
+
+
+[.blue.background]
+== Heroku :
+
+Heroku est une plateforme cloud pour le déploiement d'applications web, 
+offrant un large éventail de services pour le développement et l'hébergement d'applications, y compris:
+[%step]
+* des bases de données
+* des services de mise en cache
+* des services de messagerie, 
+* etc.
+
+[.blue.background]
+== Parse Platform :
+
+Parse Platform est une solution open-source pour le développement d'applications mobiles et web, proposant des fonctionnalités back-end telles que:
+
+[%step]
+* l'authentification
+* la base de données en temps réel
+* les notifications push
+* d'autres services.
+

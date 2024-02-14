@@ -1,0 +1,77 @@
+= Firebase 
+:customcss: style.css
+
+[.blue.background]
+== Définition
+
+Firebase est une plateforme de développement d'applications mobiles et web proposée en tant que service (BaaS - Backend as a Service), ce qui signifie qu'elle offre des fonctionnalités de back-end clés en main pour les développeurs. 
+
+[.blue.background]
+== ..
+
+Voici comment Firebase se situe par rapport aux différents types de solutions cloud déjà évoqué dans les slides précédentes:
+
+[.blue.background]
+=== Infrastructure en tant que Service (IaaS) :
+
+Firebase ne fournit pas directement une infrastructure virtuelle telle que des machines virtuelles ou des serveurs. 
+
+Il se concentre plutôt sur les services de back-end hautement gérés et prêts à l'emploi.
+
+[.blue.background]
+=== Plateforme en tant que Service (PaaS) :
+
+Firebase se rapproche davantage de ce modèle car il offre une plateforme complète pour le développement d'applications mobiles et web, y compris des fonctionnalités telles que :
+[%step]
+* l'authentification
+* la base de données en temps réel
+* le stockage de fichiers
+* le messaging, 
+* etc. 
+
+[.blue.background]
+=== ...
+
+Cependant, Firebase est souvent considéré comme un BaaS plutôt qu'un PaaS en raison de son orientation spécifique vers les fonctionnalités de back-end.
+
+[.blue.background]
+=== Logiciel en tant que Service (SaaS) :
+
+Bien que Firebase propose des services gérés qui peuvent être utilisés pour créer des applications SaaS, il ne fournit pas directement des applications logicielles pour une utilisation par les clients finaux. 
+
+[.blue.background]
+=== ...
+
+Il fournit plutôt des outils et des services pour que les développeurs construisent leurs propres applications.
+
+[.blue.background]
+=== Stockage en tant que Service (STaaS) :
+
+Firebase propose des services de stockage pour les fichiers, tels que :
+[%step]
+* Firebase Storage, qui permettent aux développeurs de stocker des fichiers sur le cloud de manière scalable et sécurisée. 
+
+[.blue.background]
+=== ...
+
+Cependant, Firebase ne se limite pas uniquement au stockage de données, mais offre une gamme de services back-end pour le développement d'applications.
+
+[.blue.background]
+== En conclusion
+
+Firebase se positionne principalement comme une plateforme de développement d'applications mobiles et web offrant des services back-end clés en main (BaaS), avec une variété de fonctionnalités telles que :
+[%step]
+* l'authentification
+* la base de données en temps réel
+* le stockage de fichiers, 
+etc.
+
+[.blue.background]
+=== ...
+
+Tout en offrant une certaine flexibilité et un contrôle pour les développeurs.
+
+
+
+
+
