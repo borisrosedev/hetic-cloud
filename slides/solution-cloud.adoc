@@ -1,0 +1,54 @@
+= Les "solutions cloud"
+
+== Définition
+
+Les "solutions cloud" désignent des **service** et des **produits** qui sont livrés via Internet ou un réseau. 
+
+=== Qu'est-ce que ces solutions impliquent ?
+
+Ces solutions impliquent généralement:
+[%step]
+* le stockage 
+* l'accès à des données
+* des programmes via Internet plutôt que sur un disque dur local ou un serveur. 
+
+== Types courants de solutions cloud
+
+=== Infrastructure en tant que Service (IaaS) 
+
+Ce modèle fournit des ressources informatiques virtualisées via Internet. 
+Les utilisateurs peuvent:
+[%step]
+* louer des machines virtuelles
+* du stockage
+* une infrastructure réseau selon un modèle de paiement à l'utilisation.
+
+
+=== Plateforme en tant que Service (PaaS) 
+
+Le PaaS fournit une plateforme permettant aux clients:
+* de développer
+* d'exécuter 
+* de gérer des applications sans avoir à gérer l'infrastructure sous-jacente. 
+
+
+=== ...
+Il inclut généralement 
+[%step]
+* des outils de développement, 
+* des middleware 
+* des systèmes de gestion de bases de données.
+
+=== Logiciel en tant que Service (SaaS) 
+
+Le SaaS fournit des applications logicielles via Internet sur la base d'un abonnement. 
+
+Les utilisateurs peuvent accéder à ces applications via un navigateur web sans avoir besoin d'installer ou de maintenir le logiciel sur leurs propres appareils.
+
+=== Stockage en tant que Service (STaaS) 
+
+Ce modèle permet aux utilisateurs de stocker leurs données sur des serveurs distants, généralement gérés par des fournisseurs de services cloud, en payant en fonction de l'utilisation.
+
+
+
+

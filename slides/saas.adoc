@@ -1,0 +1,29 @@
+= Logiciel en tant que Service (SaaS) 
+
+== Avantages
+
+=== Facilité d'utilisation 
+
+Les utilisateurs peuvent accéder aux applications via un navigateur web sans installation ni configuration.
+
+=== Maintenance automatique 
+
+Les mises à jour et la maintenance sont gérées par le fournisseur de services.
+
+=== Accessibilité 
+
+Les applications sont accessibles depuis n'importe quel appareil connecté à Internet.
+
+== Inconvénients 
+
+=== Personnalisation limitée 
+
+Les options de personnalisation peuvent être limitées en fonction des besoins spécifiques de l'utilisateur.
+
+=== Dépendance à l'égard du fournisseur 
+
+Les utilisateurs dépendent du fournisseur pour la disponibilité et la sécurité des données.
+
+=== Intégration complexe 
+
+L'intégration avec d'autres systèmes peut être complexe en raison de contraintes de sécurité et de compatibilité.
